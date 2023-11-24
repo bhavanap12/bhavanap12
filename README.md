@@ -9,14 +9,11 @@ Hi, I'm Bhavana!
 	<a href="https://github.com/bhavanap12">
 		<img src="https://komarev.com/ghpvc/?username=bhavanap12&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanap12" />
 	</a>
-	<a href="https://github.com/bhavanap12">
-		<img src="https://img.shields.io/github/followers/bhavanap12?label=Followers" alt="bhavanap12" />
-	</a>
 </p>
 <br/>
 <p align="center">
 	<a href="https://github.com/bhavanap12">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Python+Developer;&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -30,13 +27,12 @@ Hi, I'm Bhavana!
 👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
 💬 Ask me about **Machine Learning, Deep learning, Artificial Intelligence**
 🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
-📫 Reach me at **bhavanapodapati@gmail.com**
+📫 Reach me at **podapatibhavana@outlook.com**
 </pre>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:podapatibhavana@outlook.com"><img img src="https://raw.githubusercontent.com/podapatibhavana/github-profile-readme-generator/master/src/images/icons/Social/Micorsoft Outlook.svg" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhavanapodapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavanapodapati" height="30" width="40" /></a>
 </p>
