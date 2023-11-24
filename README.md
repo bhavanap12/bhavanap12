@@ -26,7 +26,7 @@ Hi, I'm Bhavana!
 💬 Ask me about <b>Machine Learning, Deep learning, Artificial Intelligence</b>.
 🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
 📫 Reach me at <b>podapatibhavana@outlook.com</b>.
-</pre>
+</span></pre>
 </hr>
 
 <h3 align="left">Connect with me:</h3>
