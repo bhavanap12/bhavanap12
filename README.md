@@ -1,18 +1,42 @@
-<h1 align="center">Hi 👋, I'm Bhavana</h1>
+<h1 align="center">
+Hi, I'm Bhavana!
+	<a href="https://github.com/bhavanap12" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 <h3 align="center">An experienced and passionate Machine Learning Engineer</h3>
+<p align="center">
+	<a href="https://github.com/bhavanap12">
+		<img src="https://komarev.com/ghpvc/?username=bhavanap12&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanap12" />
+	</a>
+	<a href="https://github.com/bhavanap12">
+		<img src="https://img.shields.io/github/followers/bhavanap12?label=Followers" alt="bhavanap12" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/bhavanap12">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavanap12&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanap12" /> </p>
+<hr>
 
-- 🔭 I’m currently working on [Book Recommendation System](https://github.com/bhavanap12/Book-Recommendation-System)
-
-- 👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
-
-- 💬 Ask me about **Machine Learning, Deep learning, Artificial Intelligence**
-
-- 📫 How to reach me **podapatibhavana@outlook.com**
+<pre>
+💻 I am an experienced Machine Learning and Python Developer.
+📚 I have a Bachelors and Masters in Computer Science.
+🔭 Currently, I am working on Deep Learning & Machine Learning.
+🚩 Interested in developing cutting edge Machine Learning Solutions.
+👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
+💬 Ask me about **Machine Learning, Deep learning, Artificial Intelligence**
+🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
+📫 Reach me at **bhavanapodapati@gmail.com**
+</pre>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:podapatibhavana@outlook.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhavanapodapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavanapodapati" height="30" width="40" /></a>
 </p>
