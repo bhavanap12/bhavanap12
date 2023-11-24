@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhavana</h1>
 <h3 align="center">An experienced and passionate Machine Learning Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavanap12&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanap12" /> </p>
+
 - 🔭 I’m currently working on [Book Recommendation System](https://github.com/bhavanap12/Book-Recommendation-System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
@@ -40,7 +42,7 @@
 
 <h3 align="left">Other tools</h3>
 <p align="left"> 
-<a target="_blank" rel="noopener" href="https://aws.amazon.com"> <img alt="aws" src="https://img.shields.io/badge/Amazon AWS%20-%23232F3E.svg?logo=Amazon AWS&logoColor=white"/> </a> 
+<a target="_blank" rel="norefferer" href="https://aws.amazon.com"> <img alt="aws" src="https://img.shields.io/badge/Amazon AWS%20-%23232F3E.svg?logo=Amazon AWS&logoColor=white"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img alt="docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=Docker&logoColor=white"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img alt="git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=Git&logoColor=white"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img alt="jenkins" src="https://img.shields.io/badge/Jenkins%20-%23D24939.svg?logo=Jenkins&logoColor=white"/> </a>
