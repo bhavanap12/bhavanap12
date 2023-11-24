@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavana</h1>
-<h3 align="center">An experienced and passionate Machine Learning Engineer based in Canada</h3>
+<h3 align="center">An experienced and passionate Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on [Book Recommendation System](https://github.com/bhavanap12/Book-Recommendation-System)
 
