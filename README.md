@@ -22,7 +22,7 @@ Hi, I'm Bhavana!
 📚 I have a Bachelors and Masters in Computer Science.
 🔭 Currently, I am working on Deep Learning & Machine Learning.
 🚩 Interested in developing cutting edge Machine Learning Solutions.
-👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12).
+👨‍💻 All of my projects are available at <a href="https://github.com/bhavanap12">https://github.com/bhavanap12</a>.
 💬 Ask me about <b>Machine Learning, Deep learning, Artificial Intelligence</b>.
 🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
 📫 Reach me at <b>podapatibhavana@outlook.com</b>.
