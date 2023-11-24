@@ -16,7 +16,7 @@ Hi, I'm Bhavana!
 	</a>
 </p>
 <hr>
-
+<pre>
 * 💻 I am an experienced Machine Learning and Python Developer.
 * 📚 I have a Bachelors and Masters in Computer Science.
 * 🔭 Currently, I am working on Deep Learning & Machine Learning.
@@ -25,15 +25,8 @@ Hi, I'm Bhavana!
 * 💬 Ask me about <b>Machine Learning, Deep learning, Artificial Intelligence</b>.
 * 🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
 * 📫 Reach me at <b>podapatibhavana@outlook.com</b>.
-
-##Something
-- 🔭 I’m currently working on [Book Recommendation System](https://github.com/bhavanap12/Book-Recommendation-System)
-
-- 👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
-
-- 💬 Ask me about **Machine Learning, Deep learning, Artificial Intelligence**
-
-- 📫 How to reach me **bhavanapodapati@gmail.com**
+</pre>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
@@ -73,7 +66,7 @@ Hi, I'm Bhavana!
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img alt="unity" src="https://img.shields.io/badge/Unity%20-%23000000.svg?logo=Linux&logoColor=white"/> </a> 
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
+<hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavanap12&show_icons=true&locale=en&layout=compact" alt="bhavanap12" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavanap12&show_icons=true&locale=en" alt="bhavanap12" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanap12&" alt="bhavanap12" /></p>
