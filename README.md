@@ -16,7 +16,6 @@ Hi, I'm Bhavana!
 	</a>
 </p>
 
-
 💻 I am an experienced Machine Learning and Python Developer.
 📚 I have a Bachelors and Masters in Computer Science.
 🔭 Currently, I am working on Deep Learning & Machine Learning.
@@ -26,7 +25,13 @@ Hi, I'm Bhavana!
 🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
 📫 Reach me at <b>podapatibhavana@outlook.com</b>.
 
+- 🔭 I’m currently working on [Book Recommendation System](https://github.com/bhavanap12/Book-Recommendation-System)
 
+- 👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
+
+- 💬 Ask me about **Machine Learning, Deep learning, Artificial Intelligence**
+
+- 📫 How to reach me **bhavanapodapati@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
