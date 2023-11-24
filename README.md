@@ -7,11 +7,12 @@
 
 - 💬 Ask me about **Machine Learning, Deep learning, Artificial Intelligence**
 
-- 📫 How to reach me **bhavanapodapati@gmail.com**
+- 📫 How to reach me **podapatibhavana@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhavana-podapati" target="blank"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/>
+  <!--<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" />--></a>
 <a href="https://kaggle.com/bhavanapodapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavanapodapati" height="30" width="40" /></a>
 </p>
 
