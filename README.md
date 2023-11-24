@@ -19,7 +19,7 @@ Hi, I'm Bhavana!
 <pre>
 💻 I am an experienced Machine Learning and Python Developer.
 📚 I have a Bachelors and Masters in Computer Science.
-🔭 Currently, I am working on Deep Learning & Machine Learning.
+🔭 Currently, I am working on Deep Learning & Machine Learning projects.
 🚩 Interested in developing cutting edge Machine Learning Solutions.
 👨‍💻 All of my projects are available at <a href="https://github.com/bhavanap12">https://github.com/bhavanap12</a>.
 💬 Ask me about <b>Machine Learning, Deep learning, Artificial Intelligence</b>.
