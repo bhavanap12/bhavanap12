@@ -17,7 +17,7 @@ Hi, I'm Bhavana!
 </p>
 
 <hr>
-<pre><span style="font-size:20px">
+<pre><span style="font-size:30px">
 💻 I am an experienced Machine Learning and Python Developer.
 📚 I have a Bachelors and Masters in Computer Science.
 🔭 Currently, I am working on Deep Learning & Machine Learning.
@@ -28,9 +28,6 @@ Hi, I'm Bhavana!
 📫 Reach me at <b>podapatibhavana@outlook.com</b>.
 </pre>
 </hr>
-
-
-All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
