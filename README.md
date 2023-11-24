@@ -15,7 +15,7 @@ Hi, I'm Bhavana!
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Python+Developer;&center=true&width=380&height=45">
 	</a>
 </p>
-
+<pre>
 💻 I am an experienced Machine Learning and Python Developer.
 📚 I have a Bachelors and Masters in Computer Science.
 🔭 Currently, I am working on Deep Learning & Machine Learning.
@@ -24,7 +24,7 @@ Hi, I'm Bhavana!
 💬 Ask me about <b>Machine Learning, Deep learning, Artificial Intelligence</b>.
 🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
 📫 Reach me at <b>podapatibhavana@outlook.com</b>.
-
+</pre>
 - 🔭 I’m currently working on [Book Recommendation System](https://github.com/bhavanap12/Book-Recommendation-System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
