@@ -4,7 +4,6 @@ Hi, I'm Bhavana!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<h3 align="center">An experienced and passionate Machine Learning Engineer</h3>
 <p align="center">
 	<a href="https://github.com/bhavanap12">
 		<img src="https://komarev.com/ghpvc/?username=bhavanap12&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanap12" />
@@ -18,16 +17,15 @@ Hi, I'm Bhavana!
 </p>
 
 <hr>
-
 <pre>
 💻 I am an experienced Machine Learning and Python Developer.
 📚 I have a Bachelors and Masters in Computer Science.
 🔭 Currently, I am working on Deep Learning & Machine Learning.
 🚩 Interested in developing cutting edge Machine Learning Solutions.
-👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
-💬 Ask me about **Machine Learning, Deep learning, Artificial Intelligence**
+👨‍💻 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12).
+💬 Ask me about <b>Machine Learning, Deep learning, Artificial Intelligence</b>.
 🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
-📫 Reach me at **podapatibhavana@outlook.com**
+📫 Reach me at <b>podapatibhavana@outlook.com</b>.
 </pre>
 <hr>
 
