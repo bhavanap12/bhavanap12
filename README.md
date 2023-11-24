@@ -36,7 +36,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img alt="opencv" src="https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?logo=OpenCV&logoColor=white"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"> </a>
 <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img alt="seaborn" src="https://img.shields.io/badge/Seaborn%20-%232496ED.svg?logo=Seaborn&logoColor=white"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img alt="django" src="https://img.shields.io/badge/Django%20-%23092E20.svg?logo=Django&logoColor=white"/> </a>
 </p>
 
