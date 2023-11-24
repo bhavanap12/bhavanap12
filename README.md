@@ -70,3 +70,7 @@ Hi, I'm Bhavana!
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavanap12&show_icons=true&locale=en&layout=compact" alt="bhavanap12" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavanap12&show_icons=true&locale=en&layout=compact" alt="bhavanap12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavanap12&show_icons=true&locale=en" alt="bhavanap12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanap12&" alt="bhavanap12" /></p>
