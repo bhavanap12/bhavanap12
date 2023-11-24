@@ -29,9 +29,9 @@ Hi, I'm Bhavana!
 </pre>
 </hr>
 
-<p>
+
 All of my projects are available at [https://github.com/bhavanap12](https://github.com/bhavanap12)
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
