@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">Other tools</h3>
-<p align="left"> 
+<p> 
 <a target="_blank" href="https://aws.amazon.com"> <img alt="aws" src="https://img.shields.io/badge/Amazon AWS%20-%23232F3E.svg?logo=Amazon AWS&logoColor=white"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img alt="docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=Docker&logoColor=white"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img alt="git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=Git&logoColor=white"/> </a> 
