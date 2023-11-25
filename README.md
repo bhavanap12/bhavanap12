@@ -17,7 +17,7 @@ Hi, I'm Bhavana!
 </p>
 <hr>
 <pre>
-💻 I am an experienced Machine Learning and Python Developer.
+💻 I am an experienced Machine Learning Engineer and Python Developer.
 📚 I have a Bachelors and Masters in Computer Science.
 🔭 Currently, I am working on Deep Learning & Machine Learning projects.
 🚩 Interested in developing cutting edge Machine Learning Solutions.
@@ -29,6 +29,7 @@ Hi, I'm Bhavana!
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:podapatibhavana@outlook.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" alt="Email" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhavanapodapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavanapodapati" height="30" width="40" /></a>
 </p>
