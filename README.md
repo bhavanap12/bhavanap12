@@ -29,10 +29,9 @@ Hi, I'm Bhavana!
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div>
-<div title="podapatibhavana@outlook.com"><a href="mailto:podapatibhavana@outlook.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" alt="Email" height="30" width="40" /></a></div>
 <a href="https://linkedin.com/in/bhavana-podapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanapodapati" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhavanapodapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavanapodapati" height="30" width="40" /></a></div>
+<a href="https://kaggle.com/bhavanapodapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavanapodapati" height="30" width="40" /></a>
+<div title="podapatibhavana@outlook.com"><a href="mailto:podapatibhavana@outlook.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" alt="Email" height="30" width="40" /></a></div>
 </p>
 
 <h3 align="left">Languages</h3>
