@@ -23,7 +23,6 @@ Hi, I'm Bhavana!
 🚩 Interested in developing cutting edge Machine Learning Solutions.
 👨‍💻 All of my projects are available at <a href="https://github.com/bhavanap12">https://github.com/bhavanap12</a>.
 💬 Ask me about <b>Machine Learning, Deep learning, Artificial Intelligence</b>.
-🤔 I’m currently open for full-time/part-time/remote opportunities in Canada.
 📫 Reach me at <b>podapatibhavana@outlook.com</b>.
 </pre>
 <hr>
